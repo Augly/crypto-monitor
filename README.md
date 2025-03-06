@@ -23,3 +23,4 @@ MACD: 0.00
 置信度: 低
 原因: 强势上涨趋势, 成交量放大
 ========================
+![image](https://github.com/user-attachments/assets/313c57fc-ed4f-413a-bb18-5aa7dca5aac4)
