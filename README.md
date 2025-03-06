@@ -1,26 +1,3 @@
 # crypto-monitor
-=== 1000PEPEUSDT 分析报告 ===
-时间: 2025-03-06T06:59:59.999Z
-当前价格: 0.0071981
-
-技术指标:
-ema5: 0.0072
-ema13: 0.0072
-RSI: 64.72
-MACD: 0.00
-
-评分:
-趋势得分: 75.00
-动量得分: 64.72
-波动性得分: 6.07
-成交量得分: 79.78
-支撑/阻力得分: 75.38
-总分: 59.93
-
-交易信号: NEUTRAL
-风险等级: LOW
-建议: 建议观望
-置信度: 低
-原因: 强势上涨趋势, 成交量放大
-========================
 ![image](https://github.com/user-attachments/assets/313c57fc-ed4f-413a-bb18-5aa7dca5aac4)
+![image](https://github.com/user-attachments/assets/3303f173-0473-4b65-b8a9-545609d75662)
