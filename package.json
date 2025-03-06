@@ -1,0 +1,19 @@
+{
+  "name": "crypto-monitor",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "binance-api-node": "^0.12.9",
+    "dotenv": "^16.4.7",
+    "technicalindicators": "^3.1.0",
+    "ws": "^8.18.1"
+  }
+}
